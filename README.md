@@ -2,6 +2,11 @@
 
 This project builds a personlised book recommemder system using K-nearest-neighbours(KNN). The system will then give a list of recommended books based on the user's input of their favourite book. 
 
+**book_recommender.ipynb** is a runnable file that will ask for your input and return a list of books.
+**books.csv** is the dataset file.
+**reources.ipynb** are some of the links useful and inspirational for doing this project.
+**testcases.txt** are some of the inputs kindly contributed by friends and family.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
