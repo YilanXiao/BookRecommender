@@ -1,8 +1,8 @@
-"Harry Potter"
-"To kill a mockingbird"
-"Nobody true by James Herbert"
-"The time traveler's wife"
-"8 rules of love by Jay Shetty"
-"Elantris by Brandon Sandersor"
-"Veronica decides to die"
-"No longer human"
+Harry Potter
+To kill a mockingbird
+Nobody true by James Herbert
+The time traveler's wife
+8 rules of love by Jay Shetty
+Elantris by Brandon Sandersor
+Veronica decides to die
+No longer human
