@@ -1,0 +1,8 @@
+1. more EDA: plots with catogories & distributions etc.
+2. domain knowledge: publishers often specialise in certain genre of books, publishers could serve as a genres info.
+3. alternative models consideration? e.g. clustering
+4. alternative encoding approach?
+5. what if the dataset becomes too big for the brute force approach?
+6. automate evaluation approach - evaluate against the genre/publishers/authors for accuracy
+7. utilise the user rating information to optimise the recommendations
+8. unsupervised & supervised approach
